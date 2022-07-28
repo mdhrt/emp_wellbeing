@@ -1,3 +1,3 @@
-1. Use RStudio to execute the code
+1. Open RStudio
 2. Read the input dataset
-3. To execute the scripts, open the scripts from within RStudio
+3. Execute the scripts using RStudio
